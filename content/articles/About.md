@@ -1,7 +1,7 @@
 ---
 title: About
 description: SciFi to Reality
-img: Goals.jpg
+img: Books.jpg
 alt: My first blog post Logo image for blog
 author:
   name: Douglas
